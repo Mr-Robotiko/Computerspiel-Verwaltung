@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Computerspiel Verwaltung/1.0.0": {
+        "runtime": {
+          "Computerspiel Verwaltung.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Computerspiel Verwaltung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
